@@ -1,2 +1,2 @@
-# 3-Column-Preview-Car-Component-Challeng
+# 3-Column-Preview-Car-Component-Challenge
 Challenge from Frontend Mentor
